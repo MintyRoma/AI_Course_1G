@@ -3,3 +3,5 @@ matplotlib
 pandas
 scipy
 seaborn
+scikit-learn
+requests
