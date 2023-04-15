@@ -5,3 +5,4 @@ scipy
 seaborn
 scikit-learn
 requests
+networkx
